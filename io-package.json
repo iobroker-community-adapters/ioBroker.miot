@@ -1,0 +1,78 @@
+{
+    "common": {
+        "name": "miot",
+        "version": "0.0.1",
+        "news": {
+            "0.0.1": {
+                "en": "initial release",
+                "de": "Erstveröffentlichung",
+                "ru": "Начальная версия",
+                "pt": "lançamento inicial",
+                "nl": "Eerste uitgave",
+                "fr": "Première version",
+                "it": "Versione iniziale",
+                "es": "Versión inicial",
+                "pl": "Pierwsze wydanie",
+                "zh-cn": "首次出版"
+            }
+        },
+        "title": "Xiaomi iot devices",
+        "titleLang": {
+            "en": "Xiaomi iot devices",
+            "de": "Xiaomi iot Geräte",
+            "ru": "Устройства Xiaomi iot",
+            "pt": "Dispositivos Xiaomi iot",
+            "nl": "Xiaomi iot-apparaten",
+            "fr": "Appareils Xiaomi iot",
+            "it": "Dispositivi iot Xiaomi",
+            "es": "Dispositivos Xiaomi iot",
+            "pl": "Urządzenia Xiaomi IoT",
+            "zh-cn": "小米物联网设备"
+        },
+        "desc": {
+            "en": "Connect your Xiaomi iot devices",
+            "de": "Schließen Sie Ihre Xiaomi iot-Geräte an",
+            "ru": "Подключите свои устройства Xiaomi iot",
+            "pt": "Conecte seus dispositivos Xiaomi iot",
+            "nl": "Verbind uw Xiaomi IoT-apparaten",
+            "fr": "Connectez vos appareils Xiaomi iot",
+            "it": "Collega i tuoi dispositivi iot Xiaomi",
+            "es": "Conecte sus dispositivos Xiaomi iot",
+            "pl": "Podłącz swoje urządzenia Xiaomi IoT",
+            "zh-cn": "连接小米物联网设备"
+        },
+        "authors": [
+            "MeisterTR <meistertr.smarthome@gmail.com>"
+        ],
+        "keywords": [
+            "Xiaomi",
+            "iot",
+            "Cloud"
+        ],
+        "license": "MIT",
+        "platform": "Javascript/Node.js",
+        "main": "main.js",
+        "icon": "miot.png",
+        "enabled": true,
+        "extIcon": "https://raw.githubusercontent.com/MeisterTR/ioBroker.miot/master/admin/miot.png",
+        "readme": "https://github.com/MeisterTR/ioBroker.miot/blob/master/README.md",
+        "loglevel": "info",
+        "mode": "daemon",
+        "type": "household",
+        "compact": true,
+        "connectionType": "cloud",
+        "dataSource": "push",
+        "materialize": true,
+        "dependencies": [
+            {
+                "js-controller": ">=2.0.0"
+            }
+        ]
+    },
+    "native": {
+        "option1": true,
+        "option2": "42"
+    },
+    "objects": [],
+    "instanceObjects": []
+}

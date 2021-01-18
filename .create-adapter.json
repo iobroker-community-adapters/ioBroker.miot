@@ -1,0 +1,43 @@
+{
+    "cli": true,
+    "adapterName": "miot",
+    "title": "Xiaomi iot devices",
+    "description": "Connect your Xiaomi iot devices",
+    "keywords": [
+        "Xiaomi",
+        "iot",
+        "Cloud"
+    ],
+    "contributors": [
+        "MeisterTR"
+    ],
+    "expert": "no",
+    "features": [
+        "adapter"
+    ],
+    "adminFeatures": [],
+    "type": "household",
+    "startMode": "daemon",
+    "connectionType": "cloud",
+    "dataSource": "push",
+    "connectionIndicator": "no",
+    "language": "JavaScript",
+    "adminReact": "no",
+    "tools": [
+        "ESLint",
+        "type checking",
+        "devcontainer"
+    ],
+    "indentation": "Space (4)",
+    "quotes": "single",
+    "es6class": "yes",
+    "authorName": "MeisterTR",
+    "authorGithub": "MeisterTR",
+    "authorEmail": "meistertr.smarthome@gmail.com",
+    "gitRemoteProtocol": "HTTPS",
+    "gitCommit": "no",
+    "license": "MIT License",
+    "ci": "gh-actions",
+    "dependabot": "no",
+    "creatorVersion": "1.31.0"
+}
