@@ -1,4 +1,4 @@
-![Logo](admin/miot.png)
+![Logo](admin/logo_128.png)
 # ioBroker.miot
 
 [![NPM version](http://img.shields.io/npm/v/iobroker.miot.svg)](https://www.npmjs.com/package/iobroker.miot)

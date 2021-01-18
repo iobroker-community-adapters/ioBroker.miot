@@ -54,7 +54,7 @@
         "main": "main.js",
         "icon": "miot.png",
         "enabled": true,
-        "extIcon": "https://raw.githubusercontent.com/MeisterTR/ioBroker.miot/master/admin/miot.png",
+        "extIcon": "https://raw.githubusercontent.com/MeisterTR/ioBroker.miot/master/admin/logo_128.png",
         "readme": "https://github.com/MeisterTR/ioBroker.miot/blob/master/README.md",
         "loglevel": "info",
         "mode": "daemon",
